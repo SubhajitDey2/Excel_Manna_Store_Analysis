@@ -33,7 +33,7 @@ The project uses the following Data from the Manna store Excel database:
 18. ship-country,
 19. B2B.
 ___________________________________________________________________________________________________________________________________________________________________________________________
-![Updated Photo](https://github.com/SubhajitDey2/Excel_Manna_Store_Analysis/blob/main/mannastorevisualization.png)
+![Updated Photo](https://github.com/SubhajitDey2/Excel_Manna_Store_Analysis/blob/main/mannastorevisualization.PNG)
 
 
 # Tools Used
