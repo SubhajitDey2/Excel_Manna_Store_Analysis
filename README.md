@@ -13,25 +13,10 @@ ________________________________________________________________________________
 
 The project uses the following Data from the Manna store Excel database:
 
-1. Index,
-2. Order ID,
-3. CustID,
-4. Gender,
-5. Age,
-6. Date,
-7. Status,
-8. Channel,
-9. SKU,
-10. Category,
-11. Size,
-12. Qty,
-13. currency,
-14. Amount,
-15. ship-city,
-16. ship-state,
-17. ship-postal-code,
-18. ship-country,
-19. B2B.
+1. Index, 2. Order ID, 3. CustID, 4. Gender, 5. Age,
+6. Date, 7. Status, 8. Channel, 9. SKU, 10. Category,
+11. Size, 12. Qty, 13. currency, 14. Amount, 15. ship-city,
+16. ship-state, 17. ship-postal-code, 18. ship-country, 19. B2B.
 ___________________________________________________________________________________________________________________________________________________________________________________________
 ![Updated Photo](https://github.com/SubhajitDey2/Excel_Manna_Store_Analysis/blob/main/mannastorevisualization.PNG)
 
